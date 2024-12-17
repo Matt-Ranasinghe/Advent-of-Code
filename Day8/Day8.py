@@ -70,5 +70,4 @@ if __name__ == "__main__":
                 for w in anti_nodes:
                     if (w not in valid_anti_nodes and w is not None):
                         valid_anti_nodes.append(w)
-    print(valid_anti_nodes)
     print(len(valid_anti_nodes))
