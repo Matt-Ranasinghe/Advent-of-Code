@@ -1,5 +1,4 @@
 import os
-import time
 
 
 def get_numbers(lines: list[str]) -> tuple[list[int], list[list[int]]]:
